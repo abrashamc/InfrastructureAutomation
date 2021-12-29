@@ -6,7 +6,7 @@ It runs on many Unix-like systems, and can configure both Unix-like systems as w
 
 ## Pre-requisites
 Set appropriate values in -
-- [ip.txt](https://github.com/abrasham-chowdhury/InfrastructureAutomation/blob/main/resources/ip.txt) - IP addresses of servers to establish connection (User new line for each address)
+- [ip.txt](https://github.com/abrasham-chowdhury/InfrastructureAutomation/blob/main/resources/ip.txt) - IP addresses of servers to establish connection (Use new line for each address)
 - [credentials.txt](https://github.com/abrasham-chowdhury/InfrastructureAutomation/blob/main/resources/credentials.txt) - Credentials for servers (comma separated value - username,password)
 - [cmd.txt](https://github.com/abrasham-chowdhury/InfrastructureAutomation/blob/main/resources/cmd.txt) - Commands to execute (User new line for each command)
 
